@@ -10,7 +10,7 @@ import iageSrc from'../../components/pages/ae.jpeg';
 function Courses() {
     return (
       <div>
-        <h1>Courses</h1>
+        <h1>COURSES</h1>
        
        
         <h2>COMPUTER SCIENCE ENGINEERING(CSE)</h2>
